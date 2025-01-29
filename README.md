@@ -3,9 +3,6 @@
 
 This project implements a **real-time gender detection system** using deep learning. It leverages a convolutional neural network (CNN) to detect faces from a live webcam feed and predict gender as either "man" or "woman." The system is built using **TensorFlow/Keras** for deep learning and **OpenCV** for real-time video processing.
 
-# **EĞİTİM GÖRSEL**
-
-
 # **Overview**
 Gender detection is a common application of deep learning, often used in social and human-computer interaction applications. This project provides an end-to-end implementation, starting from data preprocessing and model training to real-time webcam-based prediction.
 
